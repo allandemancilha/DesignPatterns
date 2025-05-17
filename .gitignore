@@ -1,0 +1,13 @@
+
+# Build Results
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio 2015/2017 
+.vs/
+
+# Publish Web Output
+publish/
+
+# Visual Studio Code Settings
+.vscode/
